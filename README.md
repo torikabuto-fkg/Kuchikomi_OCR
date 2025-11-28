@@ -1,0 +1,1 @@
+# Kuchikomi_OCR
